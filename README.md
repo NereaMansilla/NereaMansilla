@@ -18,12 +18,20 @@
   <img src="https://img.shields.io/badge/-Material%20ui-blueviolet" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-CSS3-darkorange" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-HTML5-orange" alt='gifCat'/>
-  <img src="https://img.shields.io/badge/-Nodejs-green" alt='gifCat'/>
+</div> 
+
+<div align='center'>
+ <img src="https://img.shields.io/badge/-Nodejs-green" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-Express-gray" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-Sequelize-darkred" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-Postgres%20SQL-blue" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-Railway-darkgreen" alt='gifCat'/>
-  <img src="https://img.shields.io/badge/-GIT-orange" alt='gifCat'/>
+ 
+</div>
+
+<div align='center'>
+ <img src="https://img.shields.io/badge/-GIT-orange" alt='gifCat'/>
+ <img src="https://img.shields.io/badge/-VSCODE-darkblue" alt='gifCat'/>
 </div>
 
 <div>
