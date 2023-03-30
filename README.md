@@ -1,10 +1,11 @@
 ### 
 
-<p align='center' >Hi there 👋<p>
 
 
 <div align='center'>
-<img src="https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy-downsized-large.gif" alt='gifCat'/>
+
+ <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTg3MjQxM2QxYTk0MTE2ZDE3NjY0YTJkZTEzYzE3MmJhODk3NDAwMiZjdD1n/uV23eyoDE9cglAUji4/giphy.gif" alt='gifCat'/>
+
 
 </div>
  <br/>
@@ -23,4 +24,18 @@
   <img src="https://img.shields.io/badge/-Postgres%20SQL-blue" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-Railway-darkgreen" alt='gifCat'/>
   <img src="https://img.shields.io/badge/-GIT-orange" alt='gifCat'/>
+</div>
+
+<div>
+ <h1>
+ CONTACTO: 
+ </h1>
+ <h3>
+ LinkedIn: https://www.linkedin.com/in/nerea-barreiro-b1498721b/
+  
+  
+ </h3>
+ <h3>
+ Email: NereaMansillaBarreiro@gmail.com
+ </h3>
 </div>
